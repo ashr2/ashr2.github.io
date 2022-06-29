@@ -1,6 +1,7 @@
 #main-header img {
     width: 100%;
     height: 100%;
+    padding: 10%;
 }
 
 /* Color Palette */
@@ -59,7 +60,7 @@
 }
 
 #main-header .port-item:hover {
-    opacity: 0.8;
+    opacity: 0.9;
     cursor: pointer;
 }
 
